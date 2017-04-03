@@ -18,4 +18,9 @@
   - more resiliance in number > 3
   - upper bound of 7 ?
 
+- recording agreements clearly
+  - e.g. in this gitbook
+
+- sharing learning
+  - where possible having conversations about our coop publicly
 
