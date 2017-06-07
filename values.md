@@ -12,7 +12,7 @@
 - clear and equitable power
   - this means we care about ownership
   - we're into ulysees pacts
-  - would like to be a cooperative
+  - we're a cooperative
 
 - growth
   - more resiliance in number > 3
