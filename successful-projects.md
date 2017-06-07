@@ -7,5 +7,4 @@ What we think makes dev projects succeed:
 - Building small chunks at a time and iterating.
 
 What we don't want to do:
-
-- Do a quote for large pieces of work. They're risky for all parties.
+- Do a quote for large (> $30K) pieces of work. They're risky for all parties.
