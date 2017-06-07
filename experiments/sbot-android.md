@@ -1,5 +1,10 @@
 # Sbot on Android
 
+## About
+We're contributors to the [scuttlebutt](https://www.scuttlebutt.nz/) project in our spare time. Scuttlebutt is incredibly exciting, we use it for our social media platform and doing business with other coops. 
+
+For a while now we've wanted to build a solar powered [scuttlbutt pub](https://www.scuttlebutt.nz/concepts/pub.html) that could be attached to a bouy or deployed in disaster areas. This avenue seems like a really viable option for re-purposing old android phones to help build a new solar powered distributed internet. 
+
 ## My phone
 Samsung galaxy s5 cyanogen mod 13.0. 
 
