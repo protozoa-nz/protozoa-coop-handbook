@@ -19,17 +19,18 @@ Run
 
 ### Connect
 `ssh android@<ip in app title bar>` 
+
 Password is found under the menu in the bottom right of the screen.
 
-build tools:
+Install build tools:
+
 `sudo apt-get install build-essential python python2.7 curl`
 
-nvm
-`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash`
+Install nvm:
 
+`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash`
 `bash`
 `nvm install --lts` (could use more modern node probably)
-
 `npm i -g npm@latest`
 `npm i -g node-gyp`
 `npm i -g scuttlebot` (takes 15mins)
