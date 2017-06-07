@@ -23,7 +23,7 @@ We used a small piece of [bridging tech](https://www.npmjs.com/package/react-nat
 
 Here's the simple result : 
 
-{% video }https://www.youtube.com/watch?v=ryreShJlzrU{% endvideo %}
+{% video %}https://www.youtube.com/watch?v=ryreShJlzrU{% endvideo %}
 
 ## The code
 
