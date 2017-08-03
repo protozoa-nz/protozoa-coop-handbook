@@ -25,7 +25,7 @@ There was some back and forth about how best to balance things like :
 
 We agreed how to split up some work - my part was to go away and illustrate some slides
 
-![](./images/natual_history_text.jpg)
+![](./images/natural_history_text.jpg)
 
 This is part of a series looking at the iteration inside The Scientific Method.
 It also includes the meta-pattern of iteration of the process - we showed the progression of the 'Natural History Method' (shown above) into the modern Sceintific Method.
